@@ -14,7 +14,6 @@
 				"../gdal/ogr/ogrsf_frmts/sqlite/ogrsqlitelayer.cpp",
 				"../gdal/ogr/ogrsf_frmts/sqlite/ogrsqliteselectlayer.cpp",
 				"../gdal/ogr/ogrsf_frmts/sqlite/ogrsqlitesinglefeaturelayer.cpp",
-				"../gdal/ogr/ogrsf_frmts/sqlite/ogrsqlitesqlfunctions.cpp",
 				"../gdal/ogr/ogrsf_frmts/sqlite/ogrsqlitetablelayer.cpp",
 				"../gdal/ogr/ogrsf_frmts/sqlite/ogrsqlitevfs.cpp",
 				"../gdal/ogr/ogrsf_frmts/sqlite/ogrsqliteviewlayer.cpp",
